@@ -11,14 +11,14 @@ This repository contains three Power BI dashboards exported to PDF with image pr
 ## Dashboard Previews & Reports
 
 ### Feedback Analysis
-![Feedback Analysis](feedback.png)
+![Feedback Analysis](Feedback1.png)
 
 [📑 Download Full Report (PDF)](Survey%20Comments%20Analysis.pdf)
 
 ---
 
 ### Global Superstore
-![Global Superstore](superstore.png)
+![Global Superstore](Superstore.png)
 
 [📑 Download Full Report (PDF)](Global%20Superstore.pdf)
 
