@@ -1,1 +1,41 @@
-// BI Files
+# Power BI Dashboards
+
+This repository contains three Power BI dashboards exported to PDF with image previews:
+
+1. **Feedback Analysis**  
+2. **Global Superstore**  
+3. **Global Technology Distribution**
+
+---
+
+## Dashboard Previews & Reports
+
+### Feedback Analysis
+![Feedback Analysis](feedback.png)
+
+[📑 Download Full Report (PDF)](Survey%20Comments%20Analysis.pdf)
+
+---
+
+### Global Superstore
+![Global Superstore](superstore.png)
+
+[📑 Download Full Report (PDF)](Global%20Superstore.pdf)
+
+---
+
+### Global Technology Distribution
+![Global Technology Distribution - Page 1](Tech%20Dist1.png)  
+![Global Technology Distribution - Page 2](Tech%20Dist2.png)  
+![Global Technology Distribution - Page 3](Tech%20Dist3.png)  
+![Global Technology Distribution - Page 4](Tech%20Dist4.png)  
+![Global Technology Distribution - Page 5](Tech%20Dist5.png)
+
+[📑 Download Full Report (PDF)](Global%20Technology%20Distribution%20(1).pdf)
+
+---
+
+## 🔧 How to Use
+- View screenshots above for quick previews.  
+- Click **PDF links** to download complete dashboards.  
+- Clone this repo if you want to explore or share `.pbix` Power BI files (if included).
