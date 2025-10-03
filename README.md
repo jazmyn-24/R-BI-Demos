@@ -41,7 +41,6 @@ A dashboard tracking global adoption of internet, mobile, and landline technolog
 - **Goal:** Analyze the US Airline Twitter Sentiment dataset.  
 - **Techniques:** EDA, lexicon-based sentiment, Naive Bayes & Logistic Regression models.  
 - **Files:**  
-  - R Markdown: `R projects/sentiment analysis/sentiment_analysis.Rmd`  
   - [📑 Report (PDF)](R%20projects/sentiment%20analysis/sentiment%20analysis.pdf)  
 
 ---
@@ -50,7 +49,6 @@ A dashboard tracking global adoption of internet, mobile, and landline technolog
 - **Goal:** Forecast sales/metrics over time.  
 - **Techniques:** Trend/seasonality decomposition, ARIMA & Prophet models.  
 - **Files:**  
-  - R Markdown: `R projects/time-series/time_series_forecasting.Rmd`  
   - [📑 Report (PDF)](R%20projects/time-series/time-series-report.pdf)  
 
 ---
@@ -58,8 +56,7 @@ A dashboard tracking global adoption of internet, mobile, and landline technolog
 ### 3. Attrition Prediction
 - **Goal:** Predict employee attrition with HR data.  
 - **Techniques:** Logistic regression, decision trees, ensemble methods, confusion matrix analysis.  
-- **Files:**  
-  - R Markdown: `R projects/attrition-prediction/attrition_prediction.Rmd`  
+- **Files:**   
   - [📑 Report (PDF)](R%20projects/attrition-prediction/Employee_Attrition_Report.pdf)  
 
 ---
