@@ -25,7 +25,6 @@ This repository contains three Power BI dashboards exported to PDF with image pr
 ---
 
 ### Global Technology Distribution
-![Global Technology Distribution - Page 1](Tech%20Dist1.png)  
 ![Global Technology Distribution - Page 2](Tech%20Dist2.png)  
 ![Global Technology Distribution - Page 3](Tech%20Dist3.png)  
 ![Global Technology Distribution - Page 4](Tech%20Dist4.png)  
