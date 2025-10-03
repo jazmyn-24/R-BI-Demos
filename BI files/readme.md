@@ -13,7 +13,7 @@ This repository contains three Power BI dashboards exported to PDF with image pr
 ### Feedback Analysis
 ![Feedback Analysis](Feedback1.png)
 
-[📑 Download Full Report (PDF)](Survey%20Comments%20Analysis.pdf)
+[📑 Download Full Report (PDF)](Feedback%20Analysis.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains three Power BI dashboards exported to PDF with image pr
 ![Global Technology Distribution - Page 4](Tech%20Dist4.png)  
 ![Global Technology Distribution - Page 5](Tech%20Dist5.png)
 
-[📑 Download Full Report (PDF)](Global%20Technology%20Distribution%20(1).pdf)
+[📑 Download Full Report (PDF)](Global%20Technology%20Distribution.pdf)
 
 ---
 
