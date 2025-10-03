@@ -9,13 +9,12 @@ Projects are organized into two streams:
 
 ---
 
-## 📊 Power BI Dashboards
+## 📊 Power BI Dashboards (`BI files/`)
 
 ### 1. Feedback Analysis
 A dashboard analyzing survey comments to uncover sentiment trends and recurring themes.  
 - **Features:** Sentiment breakdown, theme clustering, trend analysis.  
 - **Files:**  
-  - Screenshot: `feedback.png`  
   - [📑 Full Report (PDF)](BI%20files/Feedback%20Analysis.pdf)  
 
 ---
@@ -24,7 +23,6 @@ A dashboard analyzing survey comments to uncover sentiment trends and recurring 
 A sales and profitability dashboard built on the Global Superstore dataset.  
 - **Features:** Country- and category-level profit insights, sub-category breakdowns, geographic mapping.  
 - **Files:**  
-  - Screenshot: `superstore.png`  
   - [📑 Full Report (PDF)](BI%20files/Global%20Superstore.pdf)  
 
 ---
@@ -32,46 +30,37 @@ A sales and profitability dashboard built on the Global Superstore dataset.
 ### 3. Global Technology Distribution
 A dashboard tracking global adoption of internet, mobile, and landline technologies.  
 - **Features:** Regional adoption trends, country-level comparisons, long-term technology penetration analysis.  
-- **Files:**  
-  - Screenshots: `Tech Dist1.png` → `Tech Dist5.png`  
+- **Files:**    
   - [📑 Full Report (PDF)](BI%20files/Global%20Technology%20Distribution%20.pdf)  
 
 ---
 
-## 📈 R Projects
+## 📈 R Projects (`R projects/`)
 
 ### 1. Tweets Sentiment Analysis
-Analysis of the **US Airline Twitter Sentiment dataset**.  
-- **Features:**  
-  - Exploratory Data Analysis (EDA) with distribution of positive, neutral, and negative tweets.  
-  - Word frequency and wordcloud visualization.  
-  - Sentiment lexicon analysis (Bing, AFINN).  
-  - Machine learning models (Naive Bayes & Logistic Regression).  
-- **File:** `tweets_sentiment_analysis.Rmd`
+- **Goal:** Analyze the US Airline Twitter Sentiment dataset.  
+- **Techniques:** EDA, lexicon-based sentiment, Naive Bayes & Logistic Regression models.  
+- **Files:**  
+  - R Markdown: `R projects/sentiment analysis/sentiment_analysis.Rmd`  
+  - [📑 Report (PDF)](R%20projects/sentiment%20analysis/sentiment%20analysis.pdf)  
 
 ---
 
 ### 2. Time-Series Forecasting
-Forecasting sales/metrics over time using statistical and ML techniques.  
-- **Features:**  
-  - Exploratory analysis of trends and seasonality.  
-  - ARIMA / Prophet modeling for forecasting.  
-  - Visualization of forecast accuracy and error metrics.  
-- **File:** `time_series_forecasting.Rmd`
+- **Goal:** Forecast sales/metrics over time.  
+- **Techniques:** Trend/seasonality decomposition, ARIMA & Prophet models.  
+- **Files:**  
+  - R Markdown: `R projects/time-series/time_series_forecasting.Rmd`  
+  - [📑 Report (PDF)](R%20projects/time-series/time-series-report.pdf)  
 
 ---
 
 ### 3. Attrition Prediction
-Predicting employee attrition using HR analytics data.  
-- **Features:**  
-  - Exploratory analysis of attrition patterns by demographics, job role, and satisfaction scores.  
-  - Feature engineering and preprocessing.  
-  - Predictive modeling with logistic regression, decision trees, and ensemble methods.  
-  - Confusion matrix and model performance metrics.  
-- **File:** `attrition_prediction.Rmd`
-
----
-
+- **Goal:** Predict employee attrition with HR data.  
+- **Techniques:** Logistic regression, decision trees, ensemble methods, confusion matrix analysis.  
+- **Files:**  
+  - R Markdown: `R projects/attrition-prediction/attrition_prediction.Rmd`  
+  - [📑 Report (PDF)](R%20projects/attrition-prediction/Employee_Attrition_Report.pdf)  
 
 ---
 
