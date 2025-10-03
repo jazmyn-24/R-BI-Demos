@@ -16,7 +16,7 @@ A dashboard analyzing survey comments to uncover sentiment trends and recurring 
 - **Features:** Sentiment breakdown, theme clustering, trend analysis.  
 - **Files:**  
   - Screenshot: `feedback.png`  
-  - [📑 Full Report (PDF)](Survey%20Comments%20Analysis.pdf)  
+  - [📑 Full Report (PDF)](BI%20files/Feedback%20Analysis.pdf)  
 
 ---
 
@@ -25,7 +25,7 @@ A sales and profitability dashboard built on the Global Superstore dataset.
 - **Features:** Country- and category-level profit insights, sub-category breakdowns, geographic mapping.  
 - **Files:**  
   - Screenshot: `superstore.png`  
-  - [📑 Full Report (PDF)](Global%20Superstore.pdf)  
+  - [📑 Full Report (PDF)](BI%20files/Global%20Superstore.pdf)  
 
 ---
 
@@ -34,7 +34,7 @@ A dashboard tracking global adoption of internet, mobile, and landline technolog
 - **Features:** Regional adoption trends, country-level comparisons, long-term technology penetration analysis.  
 - **Files:**  
   - Screenshots: `Tech Dist1.png` → `Tech Dist5.png`  
-  - [📑 Full Report (PDF)](Global%20Technology%20Distribution%20(1).pdf)  
+  - [📑 Full Report (PDF)](BI%20files/Global%20Technology%20Distribution%20.pdf)  
 
 ---
 
